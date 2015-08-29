@@ -1,0 +1,345 @@
+    1  pwd /home/MGiaime$
+    2  ls bin Documents public_html
+    3  ls - l ~
+    4  ls - l ~
+    5  ls -l ~
+    6  pwd
+    7  cd
+    8  cd Dociments
+    9  cd Documents
+   10  cd /Users/jim/Documents
+   11  cd ~/Documents
+   12  cd ..
+   13  man ls
+   14  man man
+   15  mkdir
+   16  touch
+   17  cp
+   18  mv
+   19  rm
+   20  less
+   21  echo shell
+   22  /bin/bash
+   23  >cd
+   24  >cd projects/
+   25  mkdir io-example/
+   26  mkdir hello.html
+   27  cd desktop
+   28  ls 
+   29  cd homework
+   30  sublime hello.html
+   31  subl hello.html
+   32  touch hello.html
+   33  git
+   34  cd Desktop
+   35  cd Homework
+   36  cd Guessing Game.html
+   37  ls
+   38  cd MLGiaime_guessing_game/
+   39  ls
+   40  mv Donuts.html ..
+   41  cd ..
+   42  ls
+   43  git clone https://github.com/mlgiaime/Donuts1.git
+   44  ls
+   45  cd Donuts1
+   46  cd ..
+   47  mv Donuts.html Donuts1
+   48  cd Donuts1
+   49  ls
+   50  git status
+   51  git add Donuts.html 
+   52  git status
+   53  git commit -m
+   54  git commit -m "Code assignment 3"
+   55    git config --global user.email "melissa.giaime@gmail.com"
+   56  git config --global user.name "Melissa Giaime"
+   57  git commit -m "Code assignment 3"
+   58  git push origin master 
+   59  pwd
+   60  ..
+   61  ..
+   62  cd ..
+   63  git clone https://github.com/mlgiaime/Donuts2.git
+   64  cd Donuts2
+   65  cd homework
+   66  cd desktop
+   67  ..
+   68  ..
+   69  ..
+   70  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+   71  cd applications
+   72  ls
+   73  sublime text 2
+   74  cd ls
+   75  ..
+   76  ...
+   77  .
+   78  cd desktop 
+   79  ls
+   80  cd homework
+   81  ls
+   82  cd javascript-and-jquery-feb-2015
+   83  ls
+   84  cd c07
+   85  subl .
+   86  ~/bin
+   87  ln
+   88  subl
+   89  cd subl
+   90  cd ~
+   91  ls
+   92  mkdir bin
+   93  ls
+   94  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+   95  subl
+   96  ls
+   97  cd bin/
+   98  mkdir subl
+   99  ls
+  100  pwd
+  101  cd 
+  102  ls
+  103  sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/
+  104  subl
+  105  cd desktop
+  106  cd Homework
+  107  ls
+  108  Donuts2
+  109  cd Donuts2
+  110  git clone https://github.com/mlgiaime/Donuts2.git
+  111  git commit
+  112  git add Donuts2.html
+  113  git status
+  114  git commit m
+  115  git commit -m
+  116  git commit -m "Code Assignment 4"
+  117  cd desktop
+  118  cd Homework
+  119  cd Donuts2
+  120  git clone https://github.com/mlgiaime/Donuts2.git
+  121  git init
+  122  git commit Dounts2.html
+  123  git commit
+  124  git push
+  125  cd desktop
+  126  cd homework
+  127  ls
+  128  cd donuts3
+  129  ls
+  130  donuts3.html
+  131  git push
+  132  help
+  133  git help
+  134  git add
+  135  https://github.com/mlgiaime/DonutStyle.git
+  136  git push
+  137  git init
+  138  https://github.com/mlgiaime/DonutStyle.git
+  139  git init
+  140  git push
+  141  https://github.com/mlgiaime/DonutStyle.git
+  142  git init
+  143  git push
+  144  https://github.com/mlgiaime/DonutStyle.git
+  145  cd desktop
+  146  cd homework
+  147  cd Donuts3
+  148  git remote add Donuts3.html https://github.com/mlgiaime/DonutStyle.git
+  149  git push
+  150  git push Donuts3.html
+  151  git push --set-upstream Donuts3.html
+  152  git config --global push.default simple
+  153  git push --set-upstream Donuts3.html
+  154  git push --set-upstream Donuts3.html master
+  155  cd desktop
+  156  cd homework
+  157  cd Donuts3
+  158  git clone https://github.com/mlgiaime/DonutStyle.git
+  159  git push
+  160  git push https://github.com/mlgiaime/DonutStyle.git
+  161  git status
+  162  git add stylesheet1.css
+  163  git push
+  164  git status
+  165  git add Donuts3.html
+  166  git push
+  167  git status
+  168  git commit -m "Donuts3.html"
+  169  git push
+  170  git remote add Donuts3.html https://github.com/mlgiaime/DonutStyle.git
+  171  git commit -m "Donuts3.html"
+  172  git commit help
+  173  git help
+  174  git commit donuts3.html https://github.com/mlgiaime/DonutStyle.git
+  175  git commit Donuts3.html https://github.com/mlgiaime/DonutStyle.git
+  176  git commit Donuts3.html 
+  177  git push
+  178  git push Donuts3.html 
+  179  git push --set-upstream Donuts3.html master 
+  180  git pull
+  181  git pull https://github.com/mlgiaime/DonutStyle.git
+  182  cd desktop
+  183  dir
+  184  ls
+  185  cd homework
+  186  cd donuts3
+  187  git push
+  188  git push Donuts3.html
+  189  git push Donuts3.html
+  190  git --set-upstream Donuts3.html master
+  191  git push --set-upstream Donuts3.html master
+  192  git pull
+  193  git pull https://github.com/mlgiaime/DonutStyle.git
+  194  git help
+  195  git merge help
+  196  git push
+  197  git merge Donuts3.html
+  198  git resolve help
+  199  git help
+  200  git add DOnuts3.html
+  201  git add Donuts3.html
+  202  git add Donuts3.html https://github.com/mlgiaime/DonutStyle.git
+  203  git push
+  204  git push Donuts3.html https://github.com/mlgiaime/DonutStyle.git
+  205  git push Donuts3.html https://github.com/mlgiaime/DonutStyle.git
+  206  git status
+  207  open .DS_Store 
+  208  rm .DS_Store
+  209  ls
+  210  git status
+  211  cd ..
+  212  pwd
+  213  git clone https://github.com/mlgiaime/DonutStyle.git
+  214  cd DonutStyle/
+  215  ls
+  216  git status
+  217  touch .gitignore
+  218  open .gitignore
+  219  git status
+  220  open .gitignore 
+  221  git status
+  222  git add .
+  223  git status
+  224  git commit -m "HW5"
+  225  git push origin master
+  226  ..
+  227  ..
+  228  ..
+  229  .
+  230  .
+  231  https://github.com/bbice/donut_shop.git
+  232  git init
+  233  cd desktop
+  234  cd homework
+  235  ls
+  236  cd DonutjQuery
+  237  push git
+  238  git init
+  239  git doughnut
+  240  git help
+  241  git add
+  242  git add .
+  243  git status
+  244  git status
+  245  git push
+  246  https://github.com/mlgiaime/doughnut.git
+  247  git push https://github.com/mlgiaime/doughnut.git
+  248  git status
+  249  git add .
+  250  git status
+  251  git commit -m "jquery1"
+  252  git status
+  253  git push
+  254  git remote add https://github.com/mlgiaime/doughnut.git
+  255  git status
+  256  git push origin master 
+  257  pwd
+  258  cd ..
+  259  pwd
+  260  git clone https://github.com/mlgiaime/doughnut.git
+  261  ls
+  262  cd DonutjQuery
+  263  mv Donuts4.html ../doughnut
+  264  mv stylesheet.css ../doughnut
+  265  mv doughnut.js ../doughnut
+  266  cd ..
+  267  cd doughnut
+  268  ls
+  269  git status
+  270  git add
+  271  git add . 
+  272  git commit -m "F1jQuery"
+  273  git push origin master
+  274  git status
+  275  git -v
+  276  git --v
+  277  git -version
+  278  git --version
+  279  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  280  brew help
+  281  brew update
+  282  brew doctor
+  283  brew install fish
+  284  /usr/local/bin/fish
+  285  brew install fish
+  286  chsh -s usr/local/bin/fish
+  287  curl -fsSL  http://git.io/beJs | ruby
+  288  fish_update_completions
+  289  brew in
+  290  git clone https://github.com/fish-shell/fish-shell ~/src/fish
+  291  cd ~/src/fish
+  292  xcodebuild install
+  293  ditto /tmp/fish.dst /
+  294  echo "usr/local/bin/fish" | sudo tee -a /etc/shells
+  295  chsh -s /usr/local/bin/fish
+  296  curl -fsSL http://git.io/beJs | ruby
+  297  cd desktop
+  298  ls
+  299  cd Homework
+  300  ls
+  301  ..
+  302  cd ..
+  303  cd ..
+  304  history
+  305  history | less
+  306  subl moving_around.txt
+  307  history | less #aw yiss
+  308  mkdir uge_workshop
+  309  ls -ld uge_workshop/
+  310  mv
+  311  mv moving_around.txt uge_workshop/
+  312  cd home
+  313  mkdir uge_workshop
+  314  ls
+  315  mv moving_around.txt ./uge_workshop/
+  316  subl unix_notes
+  317  git init
+  318  git status
+  319  cd desktop
+  320  cd homework
+  321  ls
+  322  cd ..
+  323  ls
+  324  cd moving_around.txt
+  325  git status
+  326  cd
+  327  ls
+  328  cd desktop
+  329  ls
+  330  git add ../.bash_history
+  331  cd donut_shop
+  332  ls
+  333  moving_around.txt
+  334  git commit moving_around.txt
+  335  git status
+  336  git commit -m "adding unix notes, first draft"
+  337  git add
+  338  git log
+  339  cd desktop
+  340  cd donut_shop
+  341  cd..
+  342  cd ..
+  343  cd ..
+  344  history
+  345  history > moving_around.txt
